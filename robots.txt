@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-9g11y8.5dollardepositcasino.co.nz/sitemap.xml
